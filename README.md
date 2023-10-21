@@ -11,8 +11,7 @@
 	- RDP refer to `Remote Disktop Protocol` .
 	
 	- Remote Desktop Protocol (RDP) is a Microsoft proprietary protocol that enables remote connections to other computers, typically 
-
-		over TCP port 3389. It provides network access for a remote user over an encrypted channel
+	  over TCP port 3389. It provides network access for a remote user over an encrypted channel
 
 	- this protocol in the most status work in `3389 port` , and this is the moral of the Explosion machine .
 
